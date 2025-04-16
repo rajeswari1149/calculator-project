@@ -12,12 +12,6 @@ A responsive, web-based calculator built with HTML, CSS, and JavaScript. This ca
   - **MC**: Clear memory
 - **User-Friendly Interface**: Clean and intuitive design with responsive layout
 
-## Preview
-
-![Calculator Preview](preview.png)
-
-*Note: Replace `preview.png` with an actual screenshot of your calculator.*
-
 ## Installation & Usage
 
 1. **Clone the Repository**:
