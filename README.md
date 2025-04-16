@@ -3,7 +3,7 @@ A responsive, web-based calculator built with HTML, CSS, and JavaScript. This ca
 
 ## Features
 
-- **Basic Operations**: Addition, Subtraction, Multiplication, Division
+- **Basic Operations**: Addition(+), Subtraction(-), Multiplication(*), Division(/)
 - **Advanced Functions**: Square Root (√), Percentage (%)
 - **Memory Functions**:
   - **M+**: Add current value to memory
